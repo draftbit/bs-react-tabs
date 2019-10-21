@@ -1,6 +1,6 @@
 {
   "name": "bs-react-tabs",
-  "main": "lib/js/src/ReactTabsRe.bs.js",
+  "main": "lib/js/src/ReactTabs.bs.js",
   "version": "0.1.0",
   "description": "Bucklescript bindings for reactjs/react-tabs",
   "scripts": {

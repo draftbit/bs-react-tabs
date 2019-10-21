@@ -6,6 +6,7 @@
   "scripts": {
     "clean": "bsb -clean-world",
     "build": "bsb -make-world",
+    "format": "bsrefmt --in-place src/*.re",
     "watch": "bsb -make-world -w"
   },
   "devDependencies": {
@@ -13,7 +14,7 @@
     "bs-platform": "5.2.1",
     "reason-react": "^0.7.0"
   },
-  "dependencies": {
+  "peerDependencies": {
     "reason-react": "^0.7.0",
     "react-tabs": "^3.0.0"
   }

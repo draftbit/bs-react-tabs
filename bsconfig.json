@@ -1,0 +1,10 @@
+{
+  "name": "bs-react-tabs",
+  "bsc-flags": ["-bs-super-errors"],
+  "reason": { "react-jsx": 3 },
+  "sources": ["src"],
+  "suffix": ".bs.js",
+  "namespace": true,
+  "bs-dependencies": ["reason-react"],
+  "refmt": 3
+}

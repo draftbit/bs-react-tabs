@@ -2,15 +2,15 @@
 # yarn lockfile v1
 
 
-bs-platform@^7.3.2:
-  version "7.3.2"
-  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-7.3.2.tgz#301f5c9b4e8cf5713cb60ca22e145e56e793affe"
-  integrity sha512-seJL5g4anK9la4erv+B2o2sMHQCxDF6OCRl9en3hbaUos/S3JsusQ0sPp4ORsbx5eXfHLYBwPljwKXlgpXtsgQ==
+bs-platform@^8.4.2:
+  version "8.4.2"
+  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-8.4.2.tgz#778dabd1dfb3bc95e0086c58dabae74e4ebdee8a"
+  integrity sha512-9q7S4/LLV/a68CweN382NJdCCr/lOSsJR3oQYnmPK98ChfO/AdiA3lYQkQTp6T+U0I5Z5RypUAUprNstwDtMDQ==
 
-classnames@^2.2.0:
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.6.tgz#43935bffdd291f326dad0a205309b38d00f650ce"
-  integrity sha512-JR/iSQOSt+LQIWwrwEzJ9uk0xfN3mTVYMwt1Ir5mUcSN6pU+V4zQFFaJsclJbPuAUQH+yfWef6tm7l1quW3C8Q==
+clsx@^1.1.0:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/clsx/-/clsx-1.1.1.tgz#98b3134f9abbdf23b2663491ace13c5c03a73188"
+  integrity sha512-6/bPho624p3S2pMyvP5kKBPXnI3ufHLObBFCfgx+LkeR5lg2XYy2hqZqUf45ypD8COn2bhgGJSUE+l5dhNBieA==
 
 "js-tokens@^3.0.0 || ^4.0.0":
   version "4.0.0"
@@ -43,10 +43,10 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-tabs@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/react-tabs/-/react-tabs-3.1.0.tgz#ecc50f034c1d6da2606fab9293055bbc861b382e"
-  integrity sha512-9RKc77HCPsjQDVPyZEw37g3JPtg26oSQ9o4mtaVXjJuLedDX5+TQcE+MRNKR+4aO3GMAY4YslCePGG1//MQ3Jg==
+react-tabs@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/react-tabs/-/react-tabs-3.1.2.tgz#9047ad7d8a53d357a67c14ad4c4a64cc16660fa8"
+  integrity sha512-OKS1l7QzSNcn+L2uFsxyGFHdXp9YsPGf/YOURWcImp7xLN36n0Wz+/j9HwlwGtlXCZexwshScR5BrcFbw/3P9Q==
   dependencies:
-    classnames "^2.2.0"
+    clsx "^1.1.0"
     prop-types "^15.5.0"
